@@ -10,19 +10,12 @@ header{
     text-align: center;
 }
 
-header .heading{
-    font-size: 32px;
-}
-
-nav{
-    border-top:solid 1px black;
-    border-bottom: solid 1px black;
-}
-
 .nav-list{
     text-align: center;
     padding: 15px 0;
     margin: 0 auto;
+    border-top:solid 1px #848282;
+    border-bottom: solid 1px #848282;
 }
 
 .nav-list-item{
@@ -113,7 +106,7 @@ nav{
 }
 
 footer{
-    width: 100%
+    width: 100%;
     height: 120px;
     text-align: center;
     line-height: 120px;
